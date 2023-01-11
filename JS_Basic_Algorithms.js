@@ -89,7 +89,7 @@ console.log(avengers_1);
 const avengers_2 = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
 console.log(avengers_2.length)
 
-//1.4 ---------
+//1.4 
 
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
 rickAndMortyCharacters.push('Morty', 'Summer')
@@ -99,4 +99,10 @@ console.log(rickAndMortyCharacters[4])
 
 //1.1
 
+const number1 = 10;
+const number2 = 20;
+const number3 = 2;
 
+if(number2 / number1){
+    console.log("number2 dividido entre number1 es igual a 2");
+  }
