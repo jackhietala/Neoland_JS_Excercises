@@ -70,7 +70,7 @@ let m = 5;
 let i = c * m;
 console.log(i)
 
-// Iteración #4: Operadores
+// Iteración #4: Arrays
 
 // 1.1
 
@@ -84,5 +84,19 @@ const avengers_1 = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
 avengers_1.splice(0, 1, "IRONMAN");
 console.log(avengers_1);
 
+//1.3
+
 const avengers_2 = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
 console.log(avengers_2.length)
+
+//1.4 ---------
+
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
+rickAndMortyCharacters.push('Morty', 'Summer')
+console.log(rickAndMortyCharacters[4])
+
+// Iteración #5: Condicionales
+
+//1.1
+
+
