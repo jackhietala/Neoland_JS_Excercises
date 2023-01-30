@@ -1,0 +1,36 @@
+ .card {
+    align-items: center;
+    background-color: #bfcee9;
+    border-color: black;
+    border-image-width: auto;
+    border-radius: 10px;
+    border-style:double;
+    border-width: 2px 2px 2px 2px;
+    display: inline-block;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 0.9m;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 500px;
+    font-weight:bold;
+  
+  }
+  
+  img{
+      border-radius:50%;
+      border-color: black;
+      border-width: 1px;
+      border-style: solid;
+
+  
+  } 
+
+  p{
+    font-weight: 300;
+  }
+
+  h2{
+    text-transform: uppercase;
+  }
